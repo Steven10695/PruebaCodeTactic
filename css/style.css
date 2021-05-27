@@ -1,0 +1,60 @@
+.titulo h1{
+    font-family: Lora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 55px;
+    color: #B19251;
+}
+
+.foto1{
+    max-width: 90%;
+}
+
+.foto2{
+
+}
+
+.foto3{
+
+}
+
+.foto4{
+    max-width: 111%;
+    width: 520px;
+    height: 63%;
+    
+}
+
+.textos-imagen{
+    margin-top: -100px;
+    margin-left: 20px;
+}
+
+.text-fecha{
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+.text-descrip{
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.text-bot{
+    font-family: Lora;   
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+}
+
+.text-bot a:hover{
+    text-decoration-line: none;
+}
+
